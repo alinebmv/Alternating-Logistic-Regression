@@ -5,13 +5,7 @@ Manuscript informations
 ############################################################################################
 Article title: Fungal endophytes associated with three South American Myrtae (Myrtaceae) exhibit preferences in the colonization at leaf level
 Journal name: Fungal Biology
-Author names: Aline B. M. VAZ, Andre G.F.C DA COSTA, Luc?lia V.V. RAAD, Arist?teles G?ES-NETO
-
-Corresponding author:
-Arist?teles G?ES-NETO 
-Laborat?rio de pesquisa em Microbiologia (LAPEM), Departamento de Ci?ncias Biol?gicas, Universidade Estadual de Feira de Santana, Feira de Santana, Bahia, Brasil. 44036-900. Tel.: +55 (75) 3161.8296; fax.: +55 (75) 3161.8132
-Email address: arigoesneto@pq.cnpq.br
-dothideomycetes
+Author names: Aline B. M. VAZ, Andre G.F.C DA COSTA, Lucelia V.V. RAAD, Aristoteles GoES-NETO
 
 ############################################################################################
 ############################################################################################
@@ -20,8 +14,7 @@ Analysis
 ############################################################################################
 
 rm(list=ls())
-data<- read.csv2("/Users/alinevaz/Documents/Artigos Aline/Fungal biology/data.csv", header=T)
-head(data)
+data<- read.csv2(file = "data.csv", header=T)
 attach(data)
 require(geepack)
 
