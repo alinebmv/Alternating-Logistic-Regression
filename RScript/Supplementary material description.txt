@@ -1,0 +1,104 @@
+############################################################################################
+############################################################################################
+Manuscript informations
+############################################################################################
+############################################################################################
+Article title: Fungal endophytes associated with three South American Myrtae (Myrtaceae) exhibit preferences in the colonization at leaf level
+Journal name: Fungal Biology
+Author names: Aline B. M. VAZ, Andre G.F.C DA COSTA, Lucélia V.V. RAAD, Aristoteles GOES-NETO
+
+Corresponding author:
+Aristoteles GOES-NETO
+Laboratorio de pesquisa em Microbiologia (LAPEM), Departamento de Ciencias Biologicas, Universidade Estadual de Feira de Santana, Feira de Santana, Bahia, Brasil. 44036-900. Tel.: +55 (75) 3161.8296; fax.: +55 (75) 3161.8132
+Email address: arigoesneto@pq.cnpq.br
+
+############################################################################################
+############################################################################################
+Supplementary material description
+############################################################################################
+############################################################################################
+
+This supplement provides the descrition of the database and script for Alternating Logistic regression (ALR) used in this work.
+
+The database columns are:
+
+Pl: Host tree plants in each collection site
+	1: Arrayanes forest_Argentina
+	2: Puerto Blest_Argentina
+	3: Espejo Lake_Argentina
+	4: ProMata_Brazil
+	5: ProMata_Brazil
+
+Sp: Host tree species
+	1: Luma apiculata
+	2: Myrceugenia ovata var. nanophylla
+	3: Eugenia neomyrtifolia
+
+Ind: Individual host tree
+	From 1 to 100
+
+lf: Leaf
+	From 1 to 5 from each host tree species
+
+Fr: Leaf fragment
+	A: Tip
+	B: Right margin
+	C: Base
+	D: Left margin
+	E: Middle vein upper
+	F: Middle vein lower
+	
+EW: Latitude
+
+NS: Longitude
+
+ele: Elevation
+
+wp: Water precipitation
+
+temp: Temperature	
+
+dis: Distance between all individual host tree
+
+Isol: Number of isolates
+
+Fungal endophyte species:
+
+	X1:Xylaria sp.1
+	X2:Xylaria enteroleuca 
+	X3:Xylaria castorea
+	X4:Xylaria berteri
+	Pb:Pseudocercospora basintrucata
+	Nsp.:Nemania sp.
+	Cs:Cladosporium subtilissimum
+	An1:Annulohypoxylon sp.1
+	An2:Annulohypoxylon sp.2
+	An3:Annulohypoxylon sp.3
+	D1:Diaphorte sp.1
+	D2:Diaphorte sp.2
+	D3:Diaphorte sp.3
+	D4:Diaphorte sp.4
+	D5:Diaphorte sp.5
+	D6:Diaphorte sp.6
+	Dp:D. phaseolorum 
+	Ds:Diaporthe stewartii
+	Dh:D. helianthi
+	Cc:Cladosporium colombiae
+	Pa:Paraconiothyrium sp. 
+	Dcan:Dothiora cannabinae
+	Myc:Mycosphaerella sp.
+	Gree:Greeneria sp.1
+	Pc:Pezicula corylina
+	Am1: Amphilogia sp.
+	Li:Lewia infectoria
+	Cep:Cephalosporium sp.
+	Gm:Guinardia mangiferae
+	C1:Colletotrichum sp.1
+	C2:Colletotrichum sp.2
+	C3:Colletotrichum sp.3
+	C4:Colletotrichum sp.4
+	C5:Colletotrichum sp.5
+	C6:Colletotrichum sp.6
+	C7:Colletotrichum sp.7
+	C8:Colletotrichum sp.8
+	Th:Trametes hirsuta
