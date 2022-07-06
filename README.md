@@ -22,4 +22,4 @@ sociations within a leaf, individual host tree, and collection site; and
 Another scientific works published using R:
 * **Vaz ABM**; Fontenla S, Rocha FS, Brandão LR, Vieira MLA, Garcia V, Góes-Neto A, Rosa CA. Fungal endophyte β-diversity associated with Myrtaceae species in an Andean Patagonian forest (Argentina) and an Atlantic forest (Brazil). Fungal ecology, v. 8, p. 28-36, 2014.
 
-All of my scientific articles are described in my [acesse meu *currículo lattes*](http://lattes.cnpq.br/3034158469601943)
+All of my scientific articles are described in my [*Resume*](http://lattes.cnpq.br/3034158469601943)
