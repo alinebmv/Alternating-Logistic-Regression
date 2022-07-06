@@ -13,6 +13,7 @@ sociations within a leaf, individual host tree, and collection site; and
 ***
 This work was published at Fungal Biology in 2013:
 * **Vaz ABM**, COSTA AGFC, RAAD LVV, Góes-Neto A. Fungal endophytes associated with three South American Myrtae (Myrtaceae) exhibit preferences in the colonization at leaf level. _Fungal Biology_, 2013.
+* To acess the  online published article [click here](http://dx.doi.org/10.1016/j.funbio.2013.11.010)
 
 All of my scientific articles are described in my [acesse meu *currículo lattes*](http://lattes.cnpq.br/3034158469601943)
 
