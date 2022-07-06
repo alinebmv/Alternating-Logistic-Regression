@@ -15,11 +15,17 @@ In this paper, we studied the fungal endophytes at multiple hierarchical nesting
 sociations within a leaf, individual host tree, and collection site; and 
 * to appraise whether increasing the distance among different individual host trees in the same collection site will decrease the association of distinct taxonomic fungal groups.
 
-
-
 ## My scientific production in data science:
 ***
-Another scientific works published using R:
-* **Vaz ABM**; Fontenla S, Rocha FS, Brandão LR, Vieira MLA, Garcia V, Góes-Neto A, Rosa CA. Fungal endophyte β-diversity associated with Myrtaceae species in an Andean Patagonian forest (Argentina) and an Atlantic forest (Brazil). Fungal ecology, v. 8, p. 28-36, 2014.
+All of my production on Data Science are accessible at this website: https://alinebmv.github.io/Curriculum/
 
-All of my scientific articles are described in my [*Resume*](http://lattes.cnpq.br/3034158469601943)
+# Regressão Logística Alternada (ALR)
+***
+## Descrição da publicação 
+***
+Este tabalho foi publicado na revista Fungal Biology em 2013:
+* **Vaz ABM**, COSTA AGFC, RAAD LVV, Góes-Neto A. Fungal endophytes associated with three South American Myrtae (Myrtaceae) exhibit preferences in the colonization at leaf level. _Fungal Biology_, 2013.
+* Para acessar a publicação original [clique aqui](http://dx.doi.org/10.1016/j.funbio.2013.11.010)
+
+## Toda a minha produção em ciência de dados é acessível [neste site] (https://alinebmv.github.io/Curriculum/)
+Também é possível acessar minha produção no [currículo lattes] (http://lattes.cnpq.br/3034158469601943)
